@@ -4,7 +4,7 @@ class Link
 {
 	private $path;
 	
-	public function __construct($name, $path)
+	public function __construct($path)
 	{
 		$this->path = $path;
 	}
