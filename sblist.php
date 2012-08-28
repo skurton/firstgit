@@ -15,7 +15,7 @@
 // dummy comment
 class Link
 {
-	public $path;
+	private $path;
 	
 	public function __construct($name, $path)
 	{
